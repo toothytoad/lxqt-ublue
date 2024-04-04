@@ -50,6 +50,7 @@ modules:
        - obconf
        - pcmanfm-qt
        - perl-File-MimeInfo
+       - podman-compose
        - qt5-qtimageformats
        - sddm
        - sddm-themes
