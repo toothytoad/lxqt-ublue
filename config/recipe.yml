@@ -52,6 +52,7 @@ modules:
        - perl-File-MimeInfo
        - podman-compose
        - qt5-qtimageformats
+       - samba-client
        - sddm
        - sddm-themes
        - starship
