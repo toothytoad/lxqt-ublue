@@ -48,6 +48,7 @@ modules:
        - nm-connection-editor
        - notification-daemon
        - obconf
+       - pavucontrol-qt
        - pcmanfm-qt
        - perl-File-MimeInfo
        - podman-compose
