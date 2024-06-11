@@ -43,14 +43,18 @@ modules:
        - lxqt-session
        - lxqt-themes
        - lxqt-themes-fedora
+       - mesa-dri-drivers
+       - mesa-vulkan-drivers
        - micro
        - network-manager-applet
        - nm-connection-editor
        - notification-daemon
        - obconf
+       - openbox
        - pavucontrol-qt
        - pcmanfm-qt
        - perl-File-MimeInfo
+       - plymouth-system-theme
        - podman-compose
        - qt5-qtimageformats
        - samba-client
